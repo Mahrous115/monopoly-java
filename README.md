@@ -1,4 +1,7 @@
 # Monopoly Java
+
+[![Tests](https://github.com/Mahrous115/monopoly-java/actions/workflows/test.yml/badge.svg)](https://github.com/Mahrous115/monopoly-java/actions/workflows/test.yml)
+
 A console-based Monopoly game built in Java to practice OOP principles.
 
 ## Concepts used
